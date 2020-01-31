@@ -75,7 +75,7 @@ For Linux:
     * Create a ``buildbot`` user (using, eg: ``useradd``) if necessary.
     * Log in as the buildbot user.
 
-For Mac:
+For macOS:
 
     * Create a buildbot user using the OS/X control panel user admin.  It
       should be a "standard" user.
