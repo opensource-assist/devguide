@@ -90,7 +90,7 @@ to install coverage::
     source ../cpython-venv/bin/activate
     pip install coverage
 
-On :ref:`most <mac-python.exe>` Mac OS X systems, replace :file:`./python`
+On :ref:`most <mac-python.exe>` macOS systems, replace :file:`./python`
 with :file:`./python.exe`.  On Windows, use :file:`python.bat`.
 
 You can now use python without the ./ for the rest of these instructions, as
